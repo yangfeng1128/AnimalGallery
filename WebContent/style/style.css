@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+
+div.header{
+  background:#66E0C2;
+  text-align:center;
+  height:80px;
+  padding-top:20px;
+}
+span.headerSpan{
+  font-size:40px;
+  font-color:#003D2E;
+ 	
+}
+
+div.footer{
+	padding-top:15px;
+	text-align:center;
+}
+
