@@ -6,7 +6,7 @@ It shows users a gallery of different animals and allow users to rate how much t
 
 It can be deployed on Tomcat 8.0 server and MYSQL community server.
 
-Key techniques: Java EE, JSTL, JSP, Servlets, SQL, JDNI
+Key techniques: Java EE, JSTL, JSP, Servlets, SQL, JNDI
 
 Here is the SQL model file can be used to generate the database by forward engineering.
 
